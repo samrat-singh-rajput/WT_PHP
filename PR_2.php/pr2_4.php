@@ -12,7 +12,7 @@
          else{
              echo "Invalid month number";
          }
-         //sdfghj
+         //This is comment
  }
 
  daysInMonth(3);
